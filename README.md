@@ -9,9 +9,9 @@ while the UI/UX gradually took form.
 
 # Problem
 
-My girlfriend and I, who are dating long-distance, developed an inside joke type in a way that
-indicates the use of a goofy tone of voice. It was a way to bridge the 
-gap of communication over texting to supplement our use of emojis and gifs. 
+My girlfriend and I, who are dating long-distance, have a running joke where we type in a 
+way that indicates the use of a goofy tone of voice. It was a way to bridge the 
+gap of communication over texting to supplement our use of emojis and gifs.
 
 For example:
 
@@ -19,7 +19,7 @@ For example:
 "Oh really now?" --> "O h   r E a L L Y   N o W?" <br>
 "Wow you are so funny!" --> " w O w   y O u   a R e   s O   F u N n Y ! " <br>
 
-(I actually used the app for those examples)
+(I actually used the app for those examples!)
 
 # Solution
 
