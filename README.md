@@ -23,6 +23,6 @@ For example:
 
 # Solution
 
-However, typing the "goofy text" is incredibly time consuming and sometimes is not able to be
+Typing the "goofy text" is incredibly time consuming and sometimes is not able to be
 completed and sent in a timely, comedic manner. So I developed this app so that it is ready
 to be used for optimal comedic messaging. 😜
