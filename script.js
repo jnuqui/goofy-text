@@ -1,33 +1,3 @@
-function alternateCapitalizationWorks(text) {
-    // Initialize an empty string to store the modified text
-    let result = '';
-
-    // Loop through each character in the input text
-    for (let i = 0; i < text.length; i++) {
-        // Check if the current character is a letter
-        if (/[a-zA-Z]/.test(text[i])) {
-            // Check if the letter is uppercase "I" and convert it to lowercase
-            if (text[i].toUpperCase() === 'I') {
-                result += 'i ';
-            } 
-            else if (text[i].toLowerCase() === 'l'){
-            
-            result += 'L ';
-            }
-            else {
-                // Alternate capitalization based on the index
-                result += i % 2 === 0 ? text[i].toUpperCase() + ' ' : text[i].toLowerCase() + ' ';
-            }
-        } else {
-            // If the character is not a letter, just append it as is
-            result += text[i] + ' ';
-        }
-    }
-
-    // Trim any extra spaces at the end and return the modified text
-    return result.trim();
-}
-
 function alternateCapitalization(text) {
     // Initialize an empty string to store the modified text
     let result = '';
