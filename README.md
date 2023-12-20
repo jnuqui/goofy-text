@@ -15,9 +15,9 @@ gap of communication over texting to supplement our use of emojis and gifs.
 
 For example:
 
-"Of course that's what your meant!" -->  "O f   c O u R s E   T h A t ' s   w H a T   Y o U r   m E a N t!"
-"Oh really now?" --> "O h   r E a L L Y   N o W?"
-"Wow you are so funny!" --> " w O w   y O u   a R e   s O   F u N n Y ! "
+"Of course that's what your meant!" -->  "O f   c O u R s E   T h A t ' s   w H a T   Y o U r   m E a N t!" <br>
+"Oh really now?" --> "O h   r E a L L Y   N o W?" <br>
+"Wow you are so funny!" --> " w O w   y O u   a R e   s O   F u N n Y ! " <br>
 
 (I actually used the app for those examples)
 
