@@ -5,7 +5,7 @@ capitalization of each letter and adding a space in between them. "I"'s are auto
 made lower-case, while "L"'s are automatically made upper-case for optimal readability.
 
 The main functionality of this app was created in less than 30 minutes using ChatGPT prompts,
-while the UI/UX gradually took form.
+while the UI/UX quickly took form after experimenation.
 
 # Problem
 
