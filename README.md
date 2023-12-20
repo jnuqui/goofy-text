@@ -25,4 +25,4 @@ For example:
 
 Without the app, manually typing the "goofy text" is cumbersome and time consuming, which results in not
 being able to be completed and sent in a timely, comedic manner. So I developed this app so that it is ready
-to be used for optimal comedic messaging. 😜
+to be used for quick, fun-filled messaging. 😜
