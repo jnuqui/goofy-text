@@ -1,60 +1,76 @@
-body{
-    
-        background-color: lightgrey;
-    
+@media screen and (max-width: 600px) {
+    body{
+        background-color: #023047;
+}
 }
 
 #goofy{
-    font-size: 40pt;
+    border: solid #023047 1px;
+    border-radius: 15px;
+    font-size: 38pt;
+    color: white;
     margin: auto;
-    width: 50%;
+    width: 80%;
+    padding: 20px;
+    text-align: center;
+    background-color: #219ebc;
     font-family:'Courier New', Courier, monospace;
 }
 
 
 
 #bigContainer{
+    width: 100%;
+    max-width: 960px;
+    margin: 0 auto;
+
+    display: flex;
+    flex-wrap: wrap;
+
+    border: solid black 1px;
+    border-radius: 15px;
         position: absolute;
-        top: 30%;
+        top: 50%;
         left: 50%;
         transform: translate(-50%, -50%);
+
+        padding: 50px;
+        background-color: #8ecae6;
         
 }
 
-#inputText{
+.container > div 
+{
+    flex: 1 0 200px;
+}
+
+.textfield{
+
     border-radius: 10px;
     resize: none;
     font-size:20pt;
 }
 
-#modifiedText{
-    border-radius: 10px;
-    resize: none;
-    font-size:20pt;
-}
+.buttonContainer {
+    display: flex;
+    align-items:center;
+    justify-content: center;
+    padding: 7px;
+  }
 
     .button {
+
+        border: solid #023047 1px;
+    
       display: flex;
       flex-direction: column;
       align-items: center;
-      padding: 6px 14px;
-      font-family: -apple-system, BlinkMacSystemFont, 'Roboto', sans-serif;
+      padding: 12px;
       border-radius: 6px;
-      border: none;
-    
       color: #fff;
-      background: linear-gradient(180deg, #4B91F7 0%, #367AF6 100%);
-       background-origin: border-box;
-      box-shadow: 0px 0.5px 1.5px rgba(54, 122, 246, 0.25), inset 0px 0.8px 0px -0.25px rgba(255, 255, 255, 0.2);
-      user-select: none;
-      -webkit-user-select: none;
-      touch-action: manipulation;
+      background-color: #219ebc;
     }
     
-    .button:focus {
-      box-shadow: inset 0px 0.8px 0px -0.25px rgba(255, 255, 255, 0.2), 0px 0.5px 1.5px rgba(54, 122, 246, 0.25), 0px 0px 0px 3.5px rgba(58, 108, 217, 0.5);
-      outline: 0;
-    }
 
     #alert-banner {
         position: fixed;
@@ -69,13 +85,3 @@ body{
         display: none;
     }
 
-
-#footer{
-    background-color: #333;
-    color: white;
-    text-align: center;
-    padding: 10px;
-    position: fixed;
-    bottom: 0;
-    width: 100%;
-}
