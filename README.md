@@ -1,5 +1,7 @@
 # Goofy Text
 
+Live Link: https://goofy-text.vercel.app/
+
 This is a fun, simple JavaScript project that takes a user's text and alternates the
 capitalization of each letter and adding a space in between them. "I"'s are automatically
 made lower-case, while "L"'s are automatically made upper-case for optimal readability.
