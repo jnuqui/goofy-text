@@ -6,9 +6,6 @@ This is a fun, simple JavaScript project that takes a user's text and alternates
 capitalization of each letter and adding a space in between them. "I"'s are automatically
 made lower-case, while "L"'s are automatically made upper-case for optimal readability.
 
-The main functionality of this app was created in less than 30 minutes using ChatGPT prompts,
-while the UI/UX quickly took form with experimenation afterwards.
-
 # Problem
 
 My girlfriend and I, who are dating long-distance, have a running joke where we type in a 
