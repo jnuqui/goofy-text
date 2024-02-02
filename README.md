@@ -21,8 +21,6 @@ For example:
 "Oh really now?" --> "O h   r E a L L Y   N o W?" <br>
 "Wow you are so funny!" --> " w O w   y O u   a R e   s O   F u N n Y ! " <br>
 
-(I actually used the app for those examples!)
-
 # Solution
 
 Without the app, manually typing the "goofy text" is cumbersome and time consuming, which results in not
